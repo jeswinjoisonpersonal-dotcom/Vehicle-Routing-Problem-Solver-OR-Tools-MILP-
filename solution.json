@@ -1,0 +1,36 @@
+{
+  "status": "OPTIMAL",
+  "total_distance_km": 359.17,
+  "num_routes": 3,
+  "vehicle_utilization_pct": [
+    100.0,
+    90.0,
+    88.0
+  ],
+  "avg_utilization_pct": 92.7,
+  "solve_time_s": 2.453,
+  "routes": [
+    [
+      0,
+      9,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      10,
+      6,
+      5,
+      3,
+      0
+    ],
+    [
+      0,
+      8,
+      4,
+      7,
+      0
+    ]
+  ]
+}
